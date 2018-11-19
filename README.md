@@ -4,7 +4,7 @@ Display value of crypto-currency holdings.
 
 1) Fill the list file with name_of_the_cryto:your_amount as :
 
-'''
+~~~
 verge:1.404
 cardano:357.009
 ripple:141
@@ -18,7 +18,7 @@ neo:1.47
 ethereum:0.74152521
 monero:0.457
 dash:0.24
-'''
+~~~
 
 2) Run :
 
