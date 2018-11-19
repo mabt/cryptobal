@@ -22,4 +22,6 @@ dash:0.24
 
 2) Run :
 
+~~~
 python3 cryptobal.py /path/of/your/file
+~~~
