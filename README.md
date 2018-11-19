@@ -1,5 +1,7 @@
 # cryptobal
+
 Display value of crypto-currency holdings.
+
 ## How to use the script
 
 1) Fill the list file with name_of_the_cryto:your_amount as :
